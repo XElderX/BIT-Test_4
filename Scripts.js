@@ -98,5 +98,5 @@ for (let i = 0; i < africa.length; i++) {
      const plus = document.getElementById('plius')
      const minuss = document.getElementById('minus')
      //-------------------5------------------------------------------
-
+ 
 
